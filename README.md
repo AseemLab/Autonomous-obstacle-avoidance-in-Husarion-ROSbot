@@ -80,7 +80,7 @@ sudo apt install python3-rospy
 ### Clone and Build
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone [https://github.com/AseemLab/Autonomous-obstacle-avoidance-in-Husarion-ROSbot]
 cd autonomous-rosbot-navigation
 
 # Build the workspace
